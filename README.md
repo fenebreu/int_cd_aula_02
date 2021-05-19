@@ -2,3 +2,5 @@
 int_cd_aula_02
 
 ## Introdução ao Git
+
+Shift+Insert para colar no Git
